@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBPlXjpCctNRwpoZVramn4aEMLQR1Bc8Lf10Uv7MOOoZt6IKfXRcMa1NLpIfbLD6F59wJI2PovKeWr3LelxHkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\HW4\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
